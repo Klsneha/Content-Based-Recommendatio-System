@@ -1,0 +1,11 @@
+127.0.0.1 - - [29/Jul/2019:15:58:47 -0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:58:49 -0700] "GET /Assignment2/Index.jsp HTTP/1.1" 200 12593
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:58:50 -0700] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:58:59 -0700] "GET /Assignment2/add?method=doGet&post=post1&postCount=1 HTTP/1.1" 200 13737
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:06 -0700] "GET /Assignment2/add?method=doGet&post=post2&postCount=2 HTTP/1.1" 200 13811
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:10 -0700] "GET /Assignment2/add?method=doGet&post=post3&postCount=3 HTTP/1.1" 200 13787
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:14 -0700] "GET /Assignment2/add?method=doGet&post=post4&postCount=4 HTTP/1.1" 200 13745
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:19 -0700] "GET /Assignment2/add?method=doGet&post=post5&postCount=5 HTTP/1.1" 200 13849
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:23 -0700] "GET /Assignment2/add?method=doGet&post=post6&postCount=6 HTTP/1.1" 200 13701
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:27 -0700] "GET /Assignment2/add?method=doGet&post=post7&postCount=7 HTTP/1.1" 200 13827
+0:0:0:0:0:0:0:1 - - [29/Jul/2019:15:59:31 -0700] "GET /Assignment2/add?method=doGet&post=post8&postCount=8 HTTP/1.1" 200 13815
